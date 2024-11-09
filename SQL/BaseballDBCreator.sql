@@ -1,0 +1,20 @@
+.mode csv
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/AllstarFull.csv AllstarFull
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Appearances.csv Appearances
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Batting.csv Batting
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/BattingPost.csv BattingPost
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Fielding.csv Fielding
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/FieldingOF.csv FieldingOF
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/FieldingOFsplit.csv FieldingOFsplit
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/FieldingPost.csv FieldingPost
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/HomeGames.csv HomeGames
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Managers.csv Managers
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/ManagersHalf.csv ManagersHalf
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Parks.csv Parks
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/People.csv People
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Pitching.csv Pitching
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/PitchingPost.csv PitchingPost
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/SeriesPost.csv SeriesPost
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/Teams.csv Teams
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/TeamsFranchises.csv TeamsFranchises
+.import /Users/kevin.reilly/Library/CloudStorage/OneDrive-TheTradeDesk/repos/baseballdatabank/core/TeamsHalf.csv TeamsHalf
